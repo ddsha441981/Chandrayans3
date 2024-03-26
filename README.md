@@ -26,7 +26,7 @@ Step 9: Once ``npm install`` completes successfully, we can start the applicatio
 
 <p align="center"><strong>App Script Setup:</strong></p>
 
-Step 10: Now, we need to integrate our app script with [Google App Script](https://www.google.com/script/start/). Create a specific file name, open it for anyone, deploy it, copy the deployed script, paste it into the frontend application, and update it accordingly.
+Step 10: Now, we need to integrate our app script with [Google App Script](https://www.google.com/script/start/) Create a specific file name, open it for anyone, deploy it, copy the deployed script, paste it into the frontend application, and update it accordingly.
 ![Step 10](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step_10.png)
 
 ![Step 101](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step_10_1.png)
@@ -37,27 +37,27 @@ Step 10: Now, we need to integrate our app script with [Google App Script](https
 
 Step 11: Next, add your documents with their particular IDs using this URL format: https://docs.google.com/document/d/1lK3u7KQRkb4BTpQ9J_z8HMcHVqywVAZFxgUOkv3dUUio/edit. We only need the document ID "1lK3u7KQRkbBTpQ9J_z8HMcHVqywVAZFxg34UOkv3dUUio".
 
-![Step 11](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step_11.png).
+![Step 11](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step_11.png)
 
-![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step_11_1.png).
+![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step_11_1.png)
 
 Step 12: Now, create a candidate profile with their appropriate details, including selecting the company name.
 
-![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step_12.png).
+![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step_12.png)
 
 Step 13: Afterward, you can generate documents by clicking on the generate button. The generation process may take 5 to 10 seconds, depending on the number of documents and internet connectivity.
 
-![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step12_1.png).
+![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step12_1.png)
 
 Step 14: After successfully generating the documents, navigate to your Google Drive and check the documents in the "PDF Documents" folder.
 
-![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step14.png).
+![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step14.png)
 
-![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step14_1.png).
+![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step14_1.png)
 
 Step 15: Alternatively, you can check your email where all documents are attached as attachments.
 
-![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step15.png).
+![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step15.png)
 
 <p align="center"><strong>Using Docker</strong></p>
 
@@ -67,9 +67,13 @@ This command is used to build and start containers defined in the docker-compose
 
 <p align="center"><strong>For Backend</strong></p>
 
-![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step16.png).
+![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step16.png)
 
 <p align="center"><strong>For Frontend</strong></p>
 
-![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step16_1.png).
+![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step16_1.png)
+
+<p align="center"><strong>Swagger</strong></p>
+
+![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step16_2.png)
 
