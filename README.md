@@ -9,3 +9,7 @@ Step 3: We'll set up the backend project first. Open your IDE and either clone t
 Step 4: Before starting the backend, there are some configurations needed, such as adding your SonarQube token in the pom.xml file. First, download SonarQube from this link. After downloading, we need to have OpenJDK 17 installed to run SonarQube.
 
 ![Step 4](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step_4.png)
+
+Step 5: Create a database in PostgreSQL.
+
+Step 6: Now, start the application.
