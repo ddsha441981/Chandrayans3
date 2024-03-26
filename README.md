@@ -26,4 +26,10 @@ Step 9: Once ``npm install`` completes successfully, we can start the applicatio
 Step 10: Now, we need to integrate our app script with [Google App Script](https://www.google.com/script/start/). Create a specific file name, open it for anyone, deploy it, copy the deployed script, paste it into the frontend application, and update it accordingly.
 ![Step 10](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step_10.png)
 
+![Step 101](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step_10_1.png)
+
+![Step 102](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step_10_2.png)
+
+![Step 103](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step_10_3.png)
+
 Step 11: Next, add your documents with their particular IDs using this URL format: https://docs.google.com/document/d/1lK3u7KQRkbBTpQ9J_z8HMcHVqywVAZFxgUOkv3dUUio/edit. We only need the document ID "1lK3u7KQRkbBTpQ9J_z8HMcHVqywVAZFxgUOkv3dUUio".
