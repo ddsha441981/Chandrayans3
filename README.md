@@ -46,3 +46,8 @@ Step 13: Afterward, you can generate documents by clicking on the generate butto
 
 ![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step12_1.png).
 
+Step 14: After successfully generating the documents, navigate to your Google Drive and check the documents in the "PDF Documents" folder.
+
+![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step14.png).
+
+![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step14_1.png).
