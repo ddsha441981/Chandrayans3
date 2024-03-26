@@ -1,3 +1,4 @@
+<p align="center"><strong>Backend Setup:</strong></p>
 Step 1: Clone the project from GitHub.
 
 ![Step 1](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step%201.png)
@@ -14,7 +15,7 @@ Step 5: Create a database in PostgreSQL.
 
 Step 6: Now, start the application.
 
-Frontend Setup:
+<p align="center"><strong>Frontend Setup:</strong></p>
 
 Step 7: Now we will set up the frontend application.
 
@@ -22,6 +23,8 @@ Step 8: Before starting the application, we need to download npm packages. Open 
 ``npm install``
 
 Step 9: Once ``npm install`` completes successfully, we can start the application on port 3000.
+
+<p align="center"><strong>App Script Setup:</strong></p>
 
 Step 10: Now, we need to integrate our app script with [Google App Script](https://www.google.com/script/start/). Create a specific file name, open it for anyone, deploy it, copy the deployed script, paste it into the frontend application, and update it accordingly.
 ![Step 10](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step_10.png)
