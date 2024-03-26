@@ -38,3 +38,11 @@ Step 11: Next, add your documents with their particular IDs using this URL forma
 
 ![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step_11_1.png).
 
+Step 12: Now, create a candidate profile with their appropriate details, including selecting the company name.
+
+![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step_12.png).
+
+Step 13: Afterward, you can generate documents by clicking on the generate button. The generation process may take 5 to 10 seconds, depending on the number of documents and internet connectivity.
+
+![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step_12_1.png).
+
