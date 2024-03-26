@@ -61,7 +61,13 @@ Step 15: Alternatively, you can check your email where all documents are attache
 
 <p align="center"><strong>Using Docker</strong></p>
 
+The command to run in the command prompt (cmd) is:
+```docker-compose up --build```
+This command is used to build and start containers defined in the docker-compose.yml file.
+
+<p align="center"><strong>For Backend</strong></p>
 ![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step16.png).
 
+<p align="center"><strong>For Frontend</strong></p>
 ![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step16_1.png).
 
