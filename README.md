@@ -32,4 +32,9 @@ Step 10: Now, we need to integrate our app script with [Google App Script](https
 
 ![Step 103](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step_10_3.png)
 
-Step 11: Next, add your documents with their particular IDs using this URL format: https://docs.google.com/document/d/1lK3u7KQRkbBTpQ9J_z8HMcHVqywVAZFxgUOkv3dUUio/edit. We only need the document ID "1lK3u7KQRkbBTpQ9J_z8HMcHVqywVAZFxgUOkv3dUUio".
+Step 11: Next, add your documents with their particular IDs using this URL format: https://docs.google.com/document/d/1lK3u7KQRkb4BTpQ9J_z8HMcHVqywVAZFxgUOkv3dUUio/edit. We only need the document ID "1lK3u7KQRkbBTpQ9J_z8HMcHVqywVAZFxg34UOkv3dUUio".
+
+![Step 11](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step_11.png).
+
+![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step_11_1.png).
+
