@@ -21,7 +21,7 @@ Step 7: Now we will set up the frontend application.
 Step 8: Before starting the application, we need to download npm packages. Open the terminal and run the command
 ``npm install``
 
-Step 9: Once npm install completes successfully, we can start the application on port 3000.
+Step 9: Once ``npm install`` completes successfully, we can start the application on port 3000.
 
 Step 10: Now, we need to integrate our app script with Google App Script. Create a specific file name, open it for anyone, deploy it, copy the deployed script, paste it into the frontend application, and update it accordingly.
 
