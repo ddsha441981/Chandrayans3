@@ -51,3 +51,8 @@ Step 14: After successfully generating the documents, navigate to your Google Dr
 ![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step14.png).
 
 ![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step14_1.png).
+
+Step 15: Alternatively, you can check your email where all documents are attached as attachments.
+
+![Step 111](https://github.com/ddsha441981/Chandrayans3/blob/master/snaps/step15.png).
+
