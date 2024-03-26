@@ -23,6 +23,6 @@ Step 8: Before starting the application, we need to download npm packages. Open 
 
 Step 9: Once ``npm install`` completes successfully, we can start the application on port 3000.
 
-Step 10: Now, we need to integrate our app script with Google App Script. Create a specific file name, open it for anyone, deploy it, copy the deployed script, paste it into the frontend application, and update it accordingly.
+Step 10: Now, we need to integrate our app script with [Google App Script](https://www.google.com/script/start/). Create a specific file name, open it for anyone, deploy it, copy the deployed script, paste it into the frontend application, and update it accordingly.
 
 Step 11: Next, add your documents with their particular IDs using this URL format: https://docs.google.com/document/d/1lK3u7KQRkbBTpQ9J_z8HMcHVqywVAZFxgUOkv3dUUio/edit. We only need the document ID "1lK3u7KQRkbBTpQ9J_z8HMcHVqywVAZFxgUOkv3dUUio".
